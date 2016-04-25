@@ -9,4 +9,4 @@ An a free and open-source multiple password login and it's easy to use and confi
 5. Set the index.php file the principal file
 6. Add in all of the files in the directory this PHP code:
    <code>&lt;?php if (!$_SESSION["login_in_1"]) { exit("You must log in! <a href=index.php>Login</a>"); } ?&gt;</code>
-7. Voilà! That finished ! Now you must only set the passwords on the password.php file!
+7. Voilà! That finished ! Now you must only set the passwords on the password.php file! 
