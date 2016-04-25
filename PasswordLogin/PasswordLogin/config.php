@@ -5,4 +5,12 @@
  * Try it now! *
 ************************/
 
-$Passwords = array( // type here the passwords
+$Passwords = array( // insert the passwords
+  'password1',
+  'password2',
+  'password3'
+);
+
+$LockedFile = "locked.php"; // type the name of the locked file
+
+?>
