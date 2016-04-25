@@ -6,7 +6,6 @@
 ************************/
 
 include('config.php'); // include the configuration
-include('password.php'); // include the passwords
 
 if (in_array($_POST['password'],$Passwords)) {
   header("Location: ".$LockedFile);
